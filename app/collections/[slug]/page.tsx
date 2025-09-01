@@ -9,18 +9,22 @@ const collections: Record<string, { name: string; filter: Parameters<typeof filt
   "artisan-textiles": { name: "Artisan Textiles", filter: { category: ["textiles"] } },
 };
 
+type ParamsP = Promise<{ slug: string }>;
+
 export async function generateStaticParams() {
   return Object.keys(collections).map((slug) => ({ slug }));
 }
 
-export function generateMetadata({ params }: { params: { slug: string } }) {
-  const c = collections[params.slug];
+export async function generateMetadata({ params }: { params: ParamsP }) {
+  const { slug } = await params;
+  const c = collections[slug];
   if (!c) return {};
   return { title: `${c.name} • Happy Homes 2.0`, description: `Shop the ${c.name} collection.` };
 }
 
-export default function CollectionPage({ params }: { params: { slug: string } }) {
-  const c = collections[params.slug];
+export default async function CollectionPage({ params }: { params: ParamsP }) {
+  const { slug } = await params;
+  const c = collections[slug];
   if (!c) return notFound();
   const products = filterProducts(c.filter);
   return (
