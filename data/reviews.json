@@ -1,0 +1,10 @@
+[
+  {"id":"r-001","productId":"p-brass-diya-001","author":"Ananya","rating":5,"comment":"Perfect festive vibe and great finish.","date":"2025-08-11T10:00:00.000Z"},
+  {"id":"r-002","productId":"p-brass-diya-001","author":"Rahul","rating":4,"comment":"Bright polish, safe packaging.","date":"2025-08-12T12:00:00.000Z"},
+  {"id":"r-003","productId":"p-dhokra-nandi-002","author":"Meera","rating":5,"comment":"Stunning detailing, worth it.","date":"2025-08-15T09:00:00.000Z"},
+  {"id":"r-004","productId":"p-blue-pottery-003","author":"Dev","rating":4,"comment":"Colors pop; slightly smaller than expected.","date":"2025-08-05T09:00:00.000Z"},
+  {"id":"r-005","productId":"p-madhubani-005","author":"Ishita","rating":5,"comment":"Authentic Mithila work — love it.","date":"2025-08-23T09:00:00.000Z"},
+  {"id":"r-006","productId":"p-channapatna-007","author":"Kavya","rating":5,"comment":"Kid-safe lacquer and vibrant.","date":"2025-08-19T09:00:00.000Z"},
+  {"id":"r-007","productId":"p-bidri-010","author":"Aftab","rating":5,"comment":"Silver inlay is immaculate.","date":"2025-08-08T09:00:00.000Z"},
+  {"id":"r-008","productId":"p-rug-017","author":"Samar","rating":4,"comment":"Soft underfoot; sheds a bit initially.","date":"2025-08-14T09:00:00.000Z"}
+]

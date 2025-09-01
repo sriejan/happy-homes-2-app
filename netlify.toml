@@ -1,0 +1,13 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+  edge_functions = ".netlify/edge-functions"
+
+[build.environment]
+  NEXT_PUBLIC_SITE_URL = "https://example.netlify.app"
+
+[functions]
+  node_bundler = "esbuild"
+
+[plugins]
+  package = "@netlify/plugin-nextjs"

@@ -1,0 +1,19 @@
+[
+  {"id":"cat-brassware","slug":"brassware","name":"Brassware","heroImage":"https://picsum.photos/id/1011/1200/600"},
+  {"id":"cat-dhokra","slug":"dhokra","name":"Dhokra Metal","heroImage":"https://picsum.photos/id/1015/1200/600"},
+  {"id":"cat-blue-pottery","slug":"blue-pottery","name":"Blue Pottery","heroImage":"https://picsum.photos/id/1016/1200/600"},
+  {"id":"cat-terracotta","slug":"terracotta","name":"Terracotta","heroImage":"https://picsum.photos/id/1025/1200/600"},
+  {"id":"cat-madhubani","slug":"madhubani","name":"Madhubani Art","heroImage":"https://picsum.photos/id/1035/1200/600"},
+  {"id":"cat-textiles","slug":"textiles","name":"Textiles & Stoles","heroImage":"https://picsum.photos/id/1040/1200/600"},
+  {"id":"cat-channapatna","slug":"channapatna","name":"Channapatna Toys","heroImage":"https://picsum.photos/id/1050/1200/600"},
+  {"id":"cat-sandalwood","slug":"sandalwood","name":"Sandalwood Carvings","heroImage":"https://picsum.photos/id/1060/1200/600"},
+  {"id":"cat-warli","slug":"warli","name":"Warli Paintings","heroImage":"https://picsum.photos/id/1070/1200/600"},
+  {"id":"cat-bidri","slug":"bidriware","name":"Bidriware","heroImage":"https://picsum.photos/id/1080/1200/600"},
+  {"id":"cat-paper-mache","slug":"paper-mache","name":"Kashmiri Paper Mache","heroImage":"https://picsum.photos/id/1090/1200/600"},
+  {"id":"cat-embroidery","slug":"kutch-embroidery","name":"Kutch Embroidery","heroImage":"https://picsum.photos/id/1100/1200/600"},
+  {"id":"cat-leather","slug":"kolhapuri-leather","name":"Kolhapuri Leather","heroImage":"https://picsum.photos/id/1110/1200/600"},
+  {"id":"cat-bell-metal","slug":"bell-metal","name":"Bell Metal (Bastar)","heroImage":"https://picsum.photos/id/1120/1200/600"},
+  {"id":"cat-bamboo","slug":"bamboo","name":"Bamboo Craft","heroImage":"https://picsum.photos/id/1130/1200/600"},
+  {"id":"cat-jewelry","slug":"jaipur-jewelry","name":"Jaipur Jewelry","heroImage":"https://picsum.photos/id/1140/1200/600"},
+  {"id":"cat-rugs","slug":"dhurries-rugs","name":"Handloom Rugs","heroImage":"https://picsum.photos/id/1150/1200/600"}
+]
